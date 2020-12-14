@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
 # Plasmons in the Kretschmann Raether Configuration
